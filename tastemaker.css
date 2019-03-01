@@ -1,0 +1,16 @@
+/* webpage color */
+body {
+  background-color: #99d8ff; text-align: center; text-color: navy;
+       }
+/* table border */
+table, th, td {
+  border: 1px solid black;
+                }
+/* paragraph color */
+p {
+  color: navy; font-size: 18px; font-family: Arial;
+    }
+/* highlighted text */
+.highlight {
+  background-color: yellow;
+}
